@@ -1,0 +1,94 @@
+.togglered{
+    color: grey;
+    background-color: black;
+    
+}
+table{
+    text-align: center;
+      
+}
+.textt{
+    width: 200px;
+    background-color: rgb(88, 14, 14);
+    color: white;
+    padding: 20px;
+}
+.krest{
+    border: none;
+    color: red;
+    background-color: white;
+    cursor: pointer;
+}
+
+h1{
+    letter-spacing: 7px;
+    color: blue;
+    transition: 2s;
+}
+h1:hover{
+    text-shadow: 2px 2px rgb(105, 45, 182), 3px 3px rgb(104, 8, 128), 4px 4px rgb(0, 255, 42), 6px 6px rgb(255, 0, 0);
+}
+
+.menu{
+    width: 25px;
+}
+.menu1{
+    width: 25px;
+}
+.menu2{
+    width: 25px;
+}
+.im{
+    border: 1px solid black;
+    padding-left: 15px;
+    margin: 20px;
+    width: 100px;
+    height: 50px;
+    font-size: 18px;
+    background-color: aquamarine;
+    list-style-type: none;
+    border-radius: 15px;
+}
+.im:hover{
+    
+    list-style-image: url("images/icons8-корона-24.png");
+    padding-left: 30px;
+    
+}
+
+
+
+.click{
+    background-color: rgb(62, 62, 238);   
+    padding: 12px;
+    text-align: center;
+    color: white;
+
+}
+.submenu{
+    
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    width: 250px;
+    
+ 
+}
+.submenu li{
+    list-style-type: none;
+    border: 1px solid black;
+    margin-bottom: 5px;
+    padding: 5px;
+    
+
+}
+
+.submenu li a{
+    text-decoration: none;
+    color:blue    
+}
+.submenu li a:hover{
+    text-decoration: underline;
+    color: red;
+}
+
